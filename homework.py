@@ -86,7 +86,7 @@ def main() -> None:
                 print("The file must have an extension '.csv'")
 
 
-            # print(*read_file(file_name=file_name))
+            print(*read_file(file_name=file_name))
 
 
 main()
